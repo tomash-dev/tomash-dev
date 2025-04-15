@@ -13,6 +13,8 @@
 I'd love to meet you! Pick a time slot to chat about anything you're passionate about—just share the agenda, and let's make it a meaningful conversation. Looking forward to connecting! 😊
 
 
+
+
 ### &nbsp; 🛠️ Technical Skills
 &nbsp;
 <table align="center">
