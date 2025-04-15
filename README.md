@@ -15,6 +15,7 @@ I'd love to meet you! Pick a time slot to chat about anything you're passionate 
 
 
 
+
 ### &nbsp; 🛠️ Technical Skills
 &nbsp;
 <table align="center">
