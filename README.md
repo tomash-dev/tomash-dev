@@ -161,6 +161,29 @@
       <br>PostgreSQL
     </td>
  </tr>
+  <tr>
+     <td align="center" width="116">
+    <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" width="48" height="48" alt="n8n" />
+    <br>n8n
+  </td>
+  <td align="center" width="116">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="48" height="48" alt="ChatGPT" />
+    <br>ChatGPT
+  </td>
+  <td align="center" width="116">
+    <img src="https://cdn-icons-png.flaticon.com/512/4712/4712027.png" width="48" height="48" alt="Chatbot" />
+    <br>Chatbot
+  </td>
+  <td align="center" width="116">
+    <img src="https://cdn-icons-png.flaticon.com/512/9716/9716955.png" width="48" height="48" alt="AI Tool" />
+    <br>AI Tools
+  </td>
+  <td align="center" width="116">
+    <img src="https://avatars.githubusercontent.com/u/169238168?s=200&v=4" width="48" height="48" alt="a0" />
+    <br>a0
+  </td>
+
+  </tr>
 </table>
 <hr>
 
