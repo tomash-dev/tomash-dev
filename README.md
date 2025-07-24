@@ -120,16 +120,9 @@
         <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
       <br>jQuery
     </td>
+    
   </tr>
  <tr>
-      <td align="center" width="116">
-        <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="MongoDB" />
-      <br>Go
-    </td>
-        <td align="center" width="116">
-        <img src="https://skillicons.dev/icons?i=ruby" width="48" height="48" alt="Ruby" />
-      <br>Ruby
-      </td>
       </td>
     <td align="center" width="116">
         <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
@@ -160,6 +153,14 @@
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
+      <td align="center" width="116">
+    <img src="https://cdn-icons-png.flaticon.com/512/9716/9716955.png" width="48" height="48" alt="AI Tool" />
+    <br>AI Tools
+  </td>
+  <td align="center" width="116">
+    <img src="https://avatars.githubusercontent.com/u/169238168?s=200&v=4" width="48" height="48" alt="a0" />
+    <br>a0
+  </td>
  </tr>
   <tr>
      <td align="center" width="116">
@@ -174,14 +175,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/4712/4712027.png" width="48" height="48" alt="Chatbot" />
     <br>Chatbot
   </td>
-  <td align="center" width="116">
-    <img src="https://cdn-icons-png.flaticon.com/512/9716/9716955.png" width="48" height="48" alt="AI Tool" />
-    <br>AI Tools
-  </td>
-  <td align="center" width="116">
-    <img src="https://avatars.githubusercontent.com/u/169238168?s=200&v=4" width="48" height="48" alt="a0" />
-    <br>a0
-  </td>
+
 
   </tr>
 </table>
